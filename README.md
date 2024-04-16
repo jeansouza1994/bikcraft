@@ -1,3 +1,9 @@
-Este é um projeto de um site de uma academia feito por mim em HTML e CSS.
+Este é um projeto feito por mim, pelo curso origamid de um site de vendas de biciletas.
 
-Link do site: https://mindfit.vercel.app/
+Tecnologias utilizadas:
+
+-   HTML
+-   CSS
+-   Javascript
+
+Link do site: https://bikcraft-two-eta.vercel.app/
