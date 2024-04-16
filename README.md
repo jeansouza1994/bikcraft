@@ -1,4 +1,4 @@
-Este é um projeto feito por mim, pelo curso origamid de um site de vendas de biciletas.
+Este é um projeto feito por mim, pelo curso origamid de um site de venda de bicicletas.
 
 Tecnologias utilizadas:
 
